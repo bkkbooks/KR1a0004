@@ -1,0 +1,98 @@
+canonical_identifier: bkk:krp/KR1a0004/v1
+canonical_location: https://kanripo.org/bkk/KR1a0004/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 增補鄭氏周易
+  date: '2015-08-24 21:53:17.051741'
+  source:
+    repository: kanripo
+    path: KR1a0004
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR1a0004_000.yaml, hash: 'sha256:d4207597787439d987551ee03aec20ad0f4b17f06e56310bf9a97e746aefe370'}
+  - {seq: 1, filename: KR1a0004_001.yaml, hash: 'sha256:223aaeaedca9240788259c3cb27b79c9cfbdaaa5123e0cbcfe82d1925b1f0723'}
+  - {seq: 2, filename: KR1a0004_002.yaml, hash: 'sha256:36178909bfb823b55ce322483fc95aca65d0a024d373b6a775d1078d73b1a540'}
+  - {seq: 3, filename: KR1a0004_003.yaml, hash: 'sha256:106bef8805ec3d5a5b10b7a09528295eb6b64c8af1beb0d15ba7f9517b33c24d'}
+  - {seq: 4, filename: KR1a0004_004.yaml, hash: 'sha256:cb942c96dd7a1b7f7a295c3dca382f84356bd3208245a821b64e724551eca304'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1a0004_000.markers.yaml, hash: 'sha256:80577105ae34b62b7d6657608cc935d1b8e0f6fb9fbcc3845da5f9cf8106a200'}
+  - {seq: 1, role: markers, filename: assets/KR1a0004_001.markers.yaml, hash: 'sha256:b81dbfc371ef34668aa7378447b47e1815b141d0937f19b0576b0e732c32654a'}
+  - {seq: 2, role: markers, filename: assets/KR1a0004_002.markers.yaml, hash: 'sha256:283e95df9615b0737779eb55971d076abc2b42139bb90a9062b80ad02b0f2d7d'}
+  - {seq: 3, role: markers, filename: assets/KR1a0004_003.markers.yaml, hash: 'sha256:7b6653f9252a3766e77c4a175d1fbd7e19f6d6daf89dd7889d82f5808a1ec191'}
+  - {seq: 4, role: markers, filename: assets/KR1a0004_004.markers.yaml, hash: 'sha256:a80d6988e80c6f185d939d0f42ca7fa7cba032726ad3fbd7730a90e735d2f076'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1a0004_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 334
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1a0004_WYG_000-3a
+    span:
+    - body
+    - 334
+    - 512
+  label: 鄭氏周易贊
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1a0004_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 4564
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1a0004_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 3999
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1a0004_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 3157
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR1a0004_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 697
+  label: 鄭氏周易爻辰圖
+  type: section
+  level: 1
+hash: sha256:92f3afd777976bd5ee8bc16a2dca1c43c721b19ce7589f4b9d70786f9124269f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
