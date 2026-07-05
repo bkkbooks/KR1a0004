@@ -20,17 +20,17 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR1a0004_000.yaml, hash: 'sha256:d4207597787439d987551ee03aec20ad0f4b17f06e56310bf9a97e746aefe370'}
-  - {seq: 1, filename: KR1a0004_001.yaml, hash: 'sha256:223aaeaedca9240788259c3cb27b79c9cfbdaaa5123e0cbcfe82d1925b1f0723'}
-  - {seq: 2, filename: KR1a0004_002.yaml, hash: 'sha256:36178909bfb823b55ce322483fc95aca65d0a024d373b6a775d1078d73b1a540'}
-  - {seq: 3, filename: KR1a0004_003.yaml, hash: 'sha256:106bef8805ec3d5a5b10b7a09528295eb6b64c8af1beb0d15ba7f9517b33c24d'}
-  - {seq: 4, filename: KR1a0004_004.yaml, hash: 'sha256:cb942c96dd7a1b7f7a295c3dca382f84356bd3208245a821b64e724551eca304'}
+  - {seq: 0, filename: KR1a0004_000.yaml, hash: 'sha256:967c6bf1ee2a06421c97f124d8878016bc9ee33c7fb51c0ee39fb1820bfe5f69'}
+  - {seq: 1, filename: KR1a0004_001.yaml, hash: 'sha256:3bf3618ff474c4f1f941370f1f68c550e0ab47a3ad2cf1893a8286474c42f4a3'}
+  - {seq: 2, filename: KR1a0004_002.yaml, hash: 'sha256:35f947158df88679f5374e402640335fc91cf4da0dabe727abdf6abaab937e04'}
+  - {seq: 3, filename: KR1a0004_003.yaml, hash: 'sha256:5e189c02bb7aa3774a756e9b6f50acd1c5c361b3533c91266c5e11e3dec07dde'}
+  - {seq: 4, filename: KR1a0004_004.yaml, hash: 'sha256:1fdffd99f397b3c29b6f3bc4a657b42ad0231c3b9a7c9cfc99b079661246ca8f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1a0004_000.markers.yaml, hash: 'sha256:80577105ae34b62b7d6657608cc935d1b8e0f6fb9fbcc3845da5f9cf8106a200'}
-  - {seq: 1, role: markers, filename: assets/KR1a0004_001.markers.yaml, hash: 'sha256:b81dbfc371ef34668aa7378447b47e1815b141d0937f19b0576b0e732c32654a'}
-  - {seq: 2, role: markers, filename: assets/KR1a0004_002.markers.yaml, hash: 'sha256:283e95df9615b0737779eb55971d076abc2b42139bb90a9062b80ad02b0f2d7d'}
-  - {seq: 3, role: markers, filename: assets/KR1a0004_003.markers.yaml, hash: 'sha256:7b6653f9252a3766e77c4a175d1fbd7e19f6d6daf89dd7889d82f5808a1ec191'}
-  - {seq: 4, role: markers, filename: assets/KR1a0004_004.markers.yaml, hash: 'sha256:a80d6988e80c6f185d939d0f42ca7fa7cba032726ad3fbd7730a90e735d2f076'}
+  - {seq: 0, role: markers, filename: assets/KR1a0004_000.markers.yaml, hash: 'sha256:f83bee5d2fe3cd38e02214e08f67a837a6a17c9cd97acdc11159196fd6961f0a'}
+  - {seq: 1, role: markers, filename: assets/KR1a0004_001.markers.yaml, hash: 'sha256:5fd9d6fd25b873240646dd4088f3bbc42107f22a1732a91f1c5f647c520fc763'}
+  - {seq: 2, role: markers, filename: assets/KR1a0004_002.markers.yaml, hash: 'sha256:7b025c6b651ba22c49535d55e5d70c40519c66f45df11229409e58bd556df476'}
+  - {seq: 3, role: markers, filename: assets/KR1a0004_003.markers.yaml, hash: 'sha256:49c0c47f2f3ee9029ab82e56921b930a601b3aa4880de4ee1a1467ec7b393b28'}
+  - {seq: 4, role: markers, filename: assets/KR1a0004_004.markers.yaml, hash: 'sha256:1eb1b10c9001e3019cc28fcf0b4aeed0c5d2ea637d66c9f7579a1c5157e802f3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -92,7 +92,4 @@ table_of_contents:
   label: 鄭氏周易爻辰圖
   type: section
   level: 1
-hash: sha256:92f3afd777976bd5ee8bc16a2dca1c43c721b19ce7589f4b9d70786f9124269f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4247429bbbc1a0114676755cabceb7c295cea71d63252b95e16b6d1f5ead086b

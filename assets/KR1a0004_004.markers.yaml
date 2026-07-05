@@ -86,7 +86,6 @@ markers:
   - {type: punctuation, offset: 131, content: (, id: KR1a0004_krp_004-bkkpn13}
   - {type: punctuation, offset: 136, content: /, id: KR1a0004_krp_004-bkkpn14}
   - {type: punctuation, offset: 141, content: ), id: KR1a0004_krp_004-bkkpn15}
-  - {type: substitution, offset: 147, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:b638c47b8d40e3d4e88b77519330d79715e103d1b9af08e7348a6a0f285c2a2f', entry: vf-0077}}
   - {type: 'kr:newline', offset: 157, content: '
 
       ', id: KR1a0004_krp_004-bkkkrnewl16}
@@ -143,7 +142,6 @@ markers:
 
       ', id: KR1a0004_krp_004-bkkkrnewl29}
   - {type: line-break, offset: 388, content: '', id: KR1a0004_WYG_004-2b02}
-  - {type: substitution, offset: 392, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:b638c47b8d40e3d4e88b77519330d79715e103d1b9af08e7348a6a0f285c2a2f', entry: vf-0077}}
   - {type: 'kr:newline', offset: 409, content: '
 
       ', id: KR1a0004_krp_004-bkkkrnewl30}
@@ -243,7 +241,6 @@ markers:
   - {type: punctuation, offset: 597, content: (, id: KR1a0004_krp_004-bkkpn28}
   - {type: punctuation, offset: 598, content: /, id: KR1a0004_krp_004-bkkpn29}
   - {type: punctuation, offset: 599, content: ), id: KR1a0004_krp_004-bkkpn30}
-  - {type: substitution, offset: 610, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4533}}
   - {type: 'kr:newline', offset: 613, content: '
 
       ', id: KR1a0004_krp_004-bkkkrnewl49}
@@ -252,7 +249,6 @@ markers:
 
       ', id: KR1a0004_krp_004-bkkkrnewl50}
   - {type: line-break, offset: 634, content: '', id: KR1a0004_WYG_004-3b08}
-  - {type: substitution, offset: 651, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4533}}
   - {type: 'kr:newline', offset: 655, content: '
 
       ', id: KR1a0004_krp_004-bkkkrnewl51}
@@ -269,4 +265,4 @@ markers:
 
       ', id: KR1a0004_krp_004-bkkkrnewl54}
   back: []
-hash: sha256:a80d6988e80c6f185d939d0f42ca7fa7cba032726ad3fbd7730a90e735d2f076
+hash: sha256:1eb1b10c9001e3019cc28fcf0b4aeed0c5d2ea637d66c9f7579a1c5157e802f3
